@@ -1,4 +1,4 @@
 # soinu-equipo-5
-Carlos
-Se me da bien los sistemas informaticos
-Me da respeto el phyton
+Eric
+Bueno con python y html
+Malo para hablar con personas.
